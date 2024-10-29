@@ -9,3 +9,5 @@ The location column, initially captured as geographic coordinates, was transform
 The description column, initially in Polish, was translated into English to broaden accessibility and improve usability for an international audience.
 This workflow enabled a smooth transition from raw web data to a refined, structured dataset ready for analysis and reporting
 
+# Solution Architecture 
+https://app.eraser.io/workspace/VLmT1AuZdXvy4qV26BFh?origin=share
